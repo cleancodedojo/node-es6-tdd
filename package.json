@@ -16,7 +16,7 @@
     "tdd"
   ],
   "author": "ray de castro",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/raydecastro/node-es6-tdd/issues"
   },
