@@ -13,3 +13,5 @@ npm install
 npm test
 ```
 
+## license
+MIT
