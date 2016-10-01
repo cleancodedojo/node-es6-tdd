@@ -16,11 +16,11 @@ gulp test-auto
 ```
 
 ## technologies
-* javascript + es6
-* node.js
+* javascript
+* es6 + babel
 * mocha + chai
-* gulp.js
-* babel.js
+* node + npm 
+* gulp
 
 ## license
 MIT
