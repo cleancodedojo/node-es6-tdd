@@ -1,5 +1,5 @@
 # node-es6-tdd
-barebones project scaffold for node.js es6 app with tdd
+node.js + es6 project scaffold for tdd
 
 ## install
 ```
