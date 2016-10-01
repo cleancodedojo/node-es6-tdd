@@ -4,7 +4,7 @@
   "description": "node es6 tdd",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --compilers js:babel-core/register"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",

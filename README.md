@@ -11,6 +11,8 @@ npm install
 ## test
 ```
 npm test
+gulp test
+gulp test-auto
 ```
 
 ## license
