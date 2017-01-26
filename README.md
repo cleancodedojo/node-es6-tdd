@@ -4,8 +4,9 @@ node.js + es6 project scaffold for tdd
 ## developer machine setup
 * install [nvm](https://github.com/creationix/nvm#install-script)
 ```
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh | bash
-nvm install v6.8.1
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+nvm install v7.4.0
+npm install -g npm
 npm install -g yarn
 ```
 
