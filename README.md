@@ -17,7 +17,7 @@ npm install -g yarn
 ## install
 * note: `project-name` is the name of your project/library.
 ```bash
-git clone https://github.com/raydecastro/node-es6-tdd.git project-name
+git clone https://github.com/cleancodedojo/node-es6-tdd.git project-name
 cd project-name
 yarn
 ```
@@ -72,10 +72,10 @@ import App from "project-name"
 MIT
 
 ## team
-* ray joseph de castro. software architect. 
+* [Ray Joseph de Castro]. Software Architect. 
 
 [nvm]: https://github.com/creationix/nvm#install-script
 [node]: https://nodejs.org/
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/
-[ray joseph de castro]: https://github.com/raydecastro/
+[Ray Joseph de Castro]: https://github.com/raydecastro/
