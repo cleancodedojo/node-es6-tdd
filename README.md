@@ -5,7 +5,7 @@ node.js + es6 project scaffold for test driven development (tdd)
 ### mac operating system
 * open the terminal
 * install [nvm], [node], [npm], [yarn] using the following commands:
-```
+```bash
 touch ~/.bash_profile
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
 source ~/.bash_profile
@@ -15,22 +15,37 @@ npm install -g yarn
 ```
 
 ## install
-```
-git clone https://github.com/raydecastro/node-es6-tdd.git
-cd node-es6-tdd
+```bash
+git clone https://github.com/raydecastro/node-es6-tdd.git project-name
+cd project-name
 yarn
 ```
 
 ## test
-```
+```bash
 npm test
+```
+
+## automatic test
+```bash
+npm run test-auto
+```
+
+## build
+```bash
+npm run build
+```
+
+## usage
+```js
+import App from "project-name"
 ```
 
 ## technologies
 * javascript
 * es6 + babel
 * mocha + chai
-* node + npm + yarn
+* nvm + node + npm + yarn
 * gulp
 
 ## license
