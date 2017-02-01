@@ -1,5 +1,5 @@
 # node-es6-tdd
-node.js + es6 project scaffold for tdd
+node.js + es6 project scaffold for test driven development (tdd)
 
 ## developer machine setup
 ### mac operating system
