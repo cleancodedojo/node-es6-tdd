@@ -43,6 +43,24 @@ npm run build
 import App from "project-name"
 ```
 
+## shell scripts
+* test
+```bash
+./test.sh
+```
+
+* build
+```bash
+./build.sh
+```
+
+* clear original project scaffold git history
+* note: you should only do this once, after cloning the repo
+* after clearing the original git history, run `git init` + `git add .` to add the project scaffold files to a new git repo
+```bash
+./clear-git-history.sh
+```
+
 ## technologies
 * javascript
 * es6 + babel
