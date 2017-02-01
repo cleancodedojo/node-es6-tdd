@@ -1,5 +1,3 @@
-"use strict";
-
 class App {
     constructor() {
         this.love = "the most powerful force in the universe.";

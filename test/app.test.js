@@ -1,7 +1,5 @@
-"use strict";
-
 import {expect} from "chai";
-import App from "../src/app.js";
+import App from "../source/app.js";
 
 describe("App", () => {
     it("shall exist", () => {
