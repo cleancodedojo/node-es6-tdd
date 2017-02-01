@@ -1,6 +1,6 @@
 {
   "name": "node-es6-tdd",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "node es6 tdd",
   "main": "./library/app.js",
   "scripts": {
