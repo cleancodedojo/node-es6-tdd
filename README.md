@@ -2,10 +2,14 @@
 node.js + es6 project scaffold for tdd
 
 ## developer machine setup
-* install [nvm](https://github.com/creationix/nvm#install-script)
+### mac operating system
+* open the terminal
+* install [nvm], [node], [npm], [yarn] using the following commands:
 ```
+touch ~/.bash_profile
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
-nvm install v7.4.0
+source ~/.bash_profile
+nvm install v7.5.0
 npm install -g npm
 npm install -g yarn
 ```
@@ -31,3 +35,11 @@ npm test
 
 ## license
 MIT
+
+## team
+* ray joseph de castro. software architect. 
+
+[nvm]: https://github.com/creationix/nvm#install-script
+[node]: https://nodejs.org/
+[npm]: https://www.npmjs.com/
+[yarn]: https://yarnpkg.com/
